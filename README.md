@@ -122,11 +122,15 @@ Development Steps
 4. Deploy on Emulator or Device
 
     Deploy using adb:
-    ![Screenshot from 2024-11-26 14-36-29](https://github.com/user-attachments/assets/684a7df8-66d1-4e4f-a665-03b21cb5d9ee)
-    adb -s RZ8MC08AE2P install android-build-appHelloWorldSwipe-debug.apk
+        ![Screenshot from 2024-11-26 14-36-29](https://github.com/user-attachments/assets/684a7df8-66d1-4e4f-a665-03b21cb5d9ee)
 
     Verify functionality on the emulator or physical device:
         Launch the app and test swipe functionality.
+   
+        ![Screenshot_20241126-143434](https://github.com/user-attachments/assets/21309b40-fdbc-4fcd-b31e-bd01bc2553a9)
+        ![Screenshot_20241126-143436](https://github.com/user-attachments/assets/802607f6-5d1e-44fa-9e4b-d9a798c46200)
+        ![Screenshot_20241126-143440](https://github.com/user-attachments/assets/f82205c1-1360-4b1c-a503-6ee231477129)
+
 
 Repository Structure
 /project-root
