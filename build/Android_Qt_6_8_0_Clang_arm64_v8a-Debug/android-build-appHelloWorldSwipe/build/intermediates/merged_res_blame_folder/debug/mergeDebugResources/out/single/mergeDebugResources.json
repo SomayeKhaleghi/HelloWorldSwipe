@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "org.qtproject.example.appHelloWorldSwipe-debug-11:/xml_qtprovider_paths.xml.flat",
+        "source": "org.qtproject.example.appHelloWorldSwipe-android-build-appHelloWorldSwipe-12:/xml/qtprovider_paths.xml"
+    }
+]
