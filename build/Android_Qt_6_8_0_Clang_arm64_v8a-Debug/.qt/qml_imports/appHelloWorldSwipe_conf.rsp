@@ -1,0 +1,14 @@
+-rootPath
+/root/HelloWorldSwipe
+-cmake-output
+-output-file
+/root/HelloWorldSwipe/build/Android_Qt_6_8_0_Clang_arm64_v8a-Debug/.qt/qml_imports/appHelloWorldSwipe_conf.cmake
+-importPath
+/root/HelloWorldSwipe/build/Android_Qt_6_8_0_Clang_arm64_v8a-Debug/HelloWorldSwipe
+-importPath
+/root/HelloWorldSwipe/build/Android_Qt_6_8_0_Clang_arm64_v8a-Debug
+-importPath
+/opt/Qt/6.8.0/android_arm64_v8a/qml
+-qrcFiles
+/root/HelloWorldSwipe/build/Android_Qt_6_8_0_Clang_arm64_v8a-Debug/.qt/rcc/qmake_HelloWorldSwipe.qrc
+/root/HelloWorldSwipe/build/Android_Qt_6_8_0_Clang_arm64_v8a-Debug/.qt/rcc/appHelloWorldSwipe_raw_qml_0.qrc

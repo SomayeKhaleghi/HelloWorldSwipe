@@ -1,0 +1,5 @@
+module HelloWorldSwipe
+typeinfo appHelloWorldSwipe.qmltypes
+prefer :/qt/qml/HelloWorldSwipe/
+Main 1.0 Main.qml
+

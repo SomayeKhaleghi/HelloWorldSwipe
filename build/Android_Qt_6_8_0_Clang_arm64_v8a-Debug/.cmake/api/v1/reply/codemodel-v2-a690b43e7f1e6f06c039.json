@@ -1,0 +1,268 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d3151a494486353cd3b1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "HelloWorldSwipe",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "_qt_internal_apk_dependencies::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_qt_internal_apk_dependencies-Debug-3b683a85f7587fd30eba.json",
+					"name" : "_qt_internal_apk_dependencies",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aab-Debug-9bb2394b45e8bcf8cbf2.json",
+					"name" : "aab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aar-Debug-ad7df72f6debbe6e15bc.json",
+					"name" : "aar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-0d656f9a38f380947981.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-e71104f931d32620958d.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-0033884b7af218ea3c0a.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-e096f65b8024cbaca292.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-704b59f4ffc9ff76e92c.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apk::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apk-Debug-53348f598611c457ddff.json",
+					"name" : "apk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apk_all::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apk_all-Debug-c4071d845e3c31b32062.json",
+					"name" : "apk_all",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHelloWorldSwipe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHelloWorldSwipe-Debug-13e3d476d03319bac5c8.json",
+					"name" : "appHelloWorldSwipe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHelloWorldSwipe_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHelloWorldSwipe_autogen-Debug-975c11ad20f7b470d5f0.json",
+					"name" : "appHelloWorldSwipe_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHelloWorldSwipe_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHelloWorldSwipe_autogen_timestamp_deps-Debug-65bb53e86bd98544701d.json",
+					"name" : "appHelloWorldSwipe_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHelloWorldSwipe_make_aab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHelloWorldSwipe_make_aab-Debug-8bfd8228d983c7a6b3bd.json",
+					"name" : "appHelloWorldSwipe_make_aab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHelloWorldSwipe_make_aar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHelloWorldSwipe_make_aar-Debug-eb0034e0f6bd4235d4dc.json",
+					"name" : "appHelloWorldSwipe_make_aar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHelloWorldSwipe_make_apk::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHelloWorldSwipe_make_apk-Debug-8c17c5fe5e2ae2480ebb.json",
+					"name" : "appHelloWorldSwipe_make_apk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHelloWorldSwipe_prepare_apk_dir::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHelloWorldSwipe_prepare_apk_dir-Debug-5a79386ebca4df016e98.json",
+					"name" : "appHelloWorldSwipe_prepare_apk_dir",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHelloWorldSwipe_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHelloWorldSwipe_qmllint-Debug-9f16e01b5cb9b73fffa4.json",
+					"name" : "appHelloWorldSwipe_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHelloWorldSwipe_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHelloWorldSwipe_qmllint_json-Debug-9d4ad06465d7030c1048.json",
+					"name" : "appHelloWorldSwipe_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHelloWorldSwipe_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHelloWorldSwipe_qmllint_module-Debug-46a63c03963fadeb4b5e.json",
+					"name" : "appHelloWorldSwipe_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHelloWorldSwipe_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHelloWorldSwipe_qmltyperegistration-Debug-eda278264a34a6117316.json",
+					"name" : "appHelloWorldSwipe_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHelloWorldSwipe_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHelloWorldSwipe_tooling-Debug-f4cfd64db77d0a6a8447.json",
+					"name" : "appHelloWorldSwipe_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appHelloWorldSwipe_aotstats_targets::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appHelloWorldSwipe_aotstats_targets-Debug-121c92da72a0ab3cb915.json",
+					"name" : "module_appHelloWorldSwipe_aotstats_targets",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt_internal_plugins::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt_internal_plugins-Debug-824c06607b0f0f3e3f57.json",
+					"name" : "qt_internal_plugins",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/root/HelloWorldSwipe/build/Android_Qt_6_8_0_Clang_arm64_v8a-Debug",
+		"source" : "/root/HelloWorldSwipe"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

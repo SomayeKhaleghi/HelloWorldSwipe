@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/HelloWorldSwipe">/root/HelloWorldSwipe/build/Android_Qt_6_8_0_Clang_arm64_v8a-Debug/HelloWorldSwipe</file>
+
+  </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/HelloWorldSwipe/">
+    <file alias="Main.qml">/root/HelloWorldSwipe/Main.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,8 @@
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+*.qmake.cache
+*.local
+*.idea
+*.vs
+/build/ 

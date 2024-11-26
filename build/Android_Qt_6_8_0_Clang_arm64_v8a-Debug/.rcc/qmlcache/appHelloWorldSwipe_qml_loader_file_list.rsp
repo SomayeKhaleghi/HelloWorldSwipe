@@ -1,0 +1,5 @@
+--resource
+/root/HelloWorldSwipe/build/Android_Qt_6_8_0_Clang_arm64_v8a-Debug/.qt/rcc/qmake_HelloWorldSwipe.qrc
+--resource
+/root/HelloWorldSwipe/build/Android_Qt_6_8_0_Clang_arm64_v8a-Debug/.qt/rcc/appHelloWorldSwipe_raw_qml_0.qrc
+/qt/qml/HelloWorldSwipe/Main.qml

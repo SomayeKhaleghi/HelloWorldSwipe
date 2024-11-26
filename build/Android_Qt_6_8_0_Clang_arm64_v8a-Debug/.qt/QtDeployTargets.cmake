@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appHelloWorldSwipe_FILE /root/HelloWorldSwipe/build/Android_Qt_6_8_0_Clang_arm64_v8a-Debug/libappHelloWorldSwipe_arm64-v8a.so)
+set(__QT_DEPLOY_TARGET_appHelloWorldSwipe_TYPE MODULE_LIBRARY)
